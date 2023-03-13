@@ -1,0 +1,58 @@
+
+Missing: 
+--------
+
+- dc
+- ftof
+- rich
+- Metrology
+
+
+
+
+Office, not in tubes:
+---------------------
+
+- clas12 - for momentum with magnets 
+- CLAS212 Detectors (not my poster)
+- richArt
+
+
+
+
+Office Tubes:
+-------------
+
+* Forward 
+- ec
+
+
+* Central
+- svt 
+- ctof
+- htcc
+
+
+
+* E1 - G11 TARGETS
+- target_e1_dvcs
+- target_g11_tpe
+
+
+
+* DAQ Fast E Symphony 
+- daqelectronics
+- fastelectronics
+- symphony
+
+
+* DARK Matter HPS
+- darkMatter
+- hps
+- theTwoBigMisteries 
+
+
+* Superconductivity
+- Solenoid
+- Superconductivity
+- Torus
