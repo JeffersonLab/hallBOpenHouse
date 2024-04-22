@@ -56,3 +56,79 @@ Office Tubes:
 - Solenoid
 - Superconductivity
 - Torus
+
+
+
+
+Poster Contacts:
+---------------
+
+
+Poster filename(s): Torus, Solenoid
+Contact: Bob Miller
+
+-----------------------------------
+
+Poster filename(s): daqelectronics
+Contact: Sergey Boyarinov
+
+-----------------------------------
+
+Poster filename(s): ec
+Contact: Cole Smith
+
+-----------------------------------
+
+Poster filename(s): hps
+Contact: Valery Kubarovsky
+
+-----------------------------------
+
+Poster filename(s): svt
+Yuri Gotra
+
+-----------------------------------
+
+Poster filename(s): fastelectronics
+Contact: Ben Raydo
+
+-----------------------------------
+
+Poster filename(s): htcc
+Contact: Youri Sharabian
+
+-----------------------------------
+
+Poster filename(s):  ctof, ftof
+Contact: Dan Carman
+
+-----------------------------------
+
+Poster filename(s): dc
+Contact:  Florian Hauenstein
+
+-----------------------------------
+
+Poster filename(s): rich
+Contact:  Valery Kubarovsky
+
+-----------------------------------
+
+Physics Posters:
+
+Poster filename(s): target_e1_dvcs, target_g11_tpe
+Contact: Latifa Elouadrhiri
+
+-----------------------------------
+
+AI:
+
+Contact:  Gagik Gavalian, Richard Tyson
+
+-----------------------------------
+
+PRAD:
+Contact: Eugene Pasyuk
+
+
+
