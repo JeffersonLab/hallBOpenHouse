@@ -64,53 +64,63 @@ Poster Contacts:
 ---------------
 
 
-Poster filename(s): Torus, Solenoid
-Contact: Bob Miller
+Poster filename(s): torus, solenoid
+Contact: Bob Miller. 
+Status on 5/2/2024: Fixed sentences on both posters
 
 -----------------------------------
 
 Poster filename(s): daqelectronics
 Contact: Sergey Boyarinov
+Status on 5/10/2024: no changes yet
 
 -----------------------------------
 
 Poster filename(s): ec
 Contact: Cole Smith
+Status on 5/10/2024: no changes yet
 
 -----------------------------------
 
-Poster filename(s): hps
-Contact: Valery Kubarovsky
+Poster filename(s): hps, dark matter
+Contact: Stepan Stepanya
+Status on 5/10/2024: new poster for HPS made by Sarah Christina Gaiser, minor changes on dark matter
 
 -----------------------------------
 
 Poster filename(s): svt
 Yuri Gotra
+Status on 5/10/2024: no changes yet
 
 -----------------------------------
 
 Poster filename(s): fastelectronics
 Contact: Ben Raydo
+Status on 5/10/2024: no changes yet
 
 -----------------------------------
 
 Poster filename(s): htcc
 Contact: Youri Sharabian
+Status on 5/10/2024: no changes yet
 
 -----------------------------------
 
 Poster filename(s):  ctof, ftof
-Contact: Dan Carman
+Contact: Dan Carman. 
+Status on 5/2/2024: minor fixes by Dan.
 
 -----------------------------------
 
 Poster filename(s): dc
 Contact:  Florian Hauenstein
+Status on 5/10/2024: no changes yet
 
 -----------------------------------
 
 Poster filename(s): rich
 Contact:  Valery Kubarovsky
+Status on 5/9/2024: modifications by Valeri
 
 -----------------------------------
 
@@ -118,17 +128,21 @@ Physics Posters:
 
 Poster filename(s): target_e1_dvcs, target_g11_tpe
 Contact: Latifa Elouadrhiri
+Status on 5/10/2024: no changes yet
 
 -----------------------------------
 
 AI:
 
 Contact:  Gagik Gavalian, Richard Tyson
+Status on 5/2/2024: New Poster
 
 -----------------------------------
 
+
 PRAD:
 Contact: Eugene Pasyuk
+Status on 5/10/2024: new poster
 
 
 
