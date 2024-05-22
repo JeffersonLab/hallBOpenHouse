@@ -1,0 +1,48 @@
+% !TeX encoding = UTF-8
+
+%Dokumentklasse, Spracheinstellung, Schriften
+\documentclass[a0paper,portrait]{baposter}
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{arev}
+%\usepackage[T1]{fontenc}
+
+%Mathe, Symbole, Einheitendarstellung, Chemie
+\usepackage{amsmath}
+\usepackage{amsxtra}
+\usepackage{eurosym}
+\usepackage{siunitx}  
+\sisetup{locale=US}
+\usepackage[version=4]{mhchem}
+
+%Typographie
+\usepackage[auto]{microtype}
+
+%Einbindung von Bildern, Tabellen, pdf-Seiten, Quellcode
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{paralist}
+\usepackage{graphicx}
+
+%Darstellung der Literaturangaben
+\usepackage[
+backend=biber,
+style=science,
+citestyle=numeric-comp,
+sorting=none,
+maxbibnames=1,
+firstinits=true
+]{biblatex}
+
+\bibliography{refs}
+\setlength\bibitemsep{2.5pt}
+
+%Definition der Farben
+\definecolor{standardfontcolor}{RGB}{0,0,0} 
+\definecolor{bordercol}{RGB}{255,255,255}
+% \definecolor{bordercol}{RGB}{29,29,29}
+\definecolor{headercol1}{RGB}{255,255,255}
+\definecolor{headercol2}{RGB}{166,25,46}
+% \definecolor{headercol2}{RGB}{113,113,113}
+\definecolor{headerfontcol}{RGB}{0,0,0}
+\definecolor{boxcolor}{RGB}{255,255,255}
