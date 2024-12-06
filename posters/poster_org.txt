@@ -6,35 +6,47 @@ Office Tubes:
 -------------
 
 == 1 ==
-- Hall B targets 1 & 2
-- Heavy Photon Search
+
+Heavy Photon Search
+Dark Matter
+Hall B and the Two Big Mysteries
+AI
+
 
 == 2 ==
+
 Super Conductivity
-EC
-DC
-ftof
-
-== 3 ==
 Solenoid
-AI
-DAQ
-HTCC
-
-== 4 ==
-Symphony
-Fast Electronics
-Hall B and the Two Big Mysteries
-PRAD
 Torus
 
-== 5 ==
-RICH
-CTOF
+
+
+== 3 ==
+
+Hall B targets 1 & 2
+PRAD
 FT
+HTCC
+
+
+== 4 ==
+
+Symphony
+Fast Electronics
+DAQ
+
+
+== 5 ==
+
+RICH
+FTOF
+EC
+DC
+
 
 == 6 ==
-Dark Matter
+
+CTOF
 SVT
 BMT
 
